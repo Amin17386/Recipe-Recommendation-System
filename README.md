@@ -23,8 +23,8 @@ The Recipe Recommendation System is a project aimed at providing personalized re
 
 <p>bash
 Copy code
-git clone https://github.com/your-username/ds-recipe-recommendation-system.git
-cd ds-recipe-recommendation-system</p>
+git clone https://github.com/your-username/recipe-recommendation-system.git
+cd recipe-recommendation-system</p>
 <h4>Create a Virtual Environment:</h4>
 
 <p>bash
