@@ -42,26 +42,26 @@ pip install -r requirements.txt</p>
 Copy code
 python setup_database.py</p>
 <h4>Run the Application:</h4>
-- `app/`: Contains the Flask application code.
-  - `__init__.py`: Initializes the Flask app.
-  - `routes.py`: Contains the route definitions and recommendation logic.
-  - `models.py`: Placeholder for future database models.
-  - `static/`: Contains static files like CSS.
-  - `templates/`: Contains HTML templates.
-- `data/`: Contains data files like CSVs and pickled models.
-- `notebooks/`: Contains Jupyter notebooks for each step of the process.
-- `app.py`: Main entry point to run the Flask app.
-- `requirements.txt`: Lists the required Python packages.
-- `README.md`: Project documentation.
-1. Install the required packages:
-  `bash
+- `app/`: Contains the Flask application code.</br>
+  - `__init__.py`: Initializes the Flask app.</br>
+  - `routes.py`: Contains the route definitions and recommendation logic.</br>
+  - `models.py`: Placeholder for future database models.</br>
+  - `static/`: Contains static files like CSS.</br>
+  - `templates/`: Contains HTML templates.</br>
+- `data/`: Contains data files like CSVs and pickled models.</br>
+- `notebooks/`: Contains Jupyter notebooks for each step of the process.</br>
+- `app.py`: Main entry point to run the Flask app.</br>
+- `requirements.txt`: Lists the required Python packages.</br>
+- `README.md`: Project documentation.</br>
+1. Install the required packages:</br>
+  `bash</br>
   pip install -r requirements.txt
-  `
-2. Run the Flask application:
+  `</br>
+2. Run the Flask application:</br>
   `bash
   python app.py
-  `
-3. Open your browser and go to `http://127.0.0.1:5000/`.
+  `</br>
+3. Open your browser and go to `http://127.0.0.1:5000/`.</br>
 
 <p>bash
 Copy code
@@ -122,10 +122,10 @@ python evaluate_models.py</p>
 
 <strong>This project is licensed under the MIT License.</strong>
 
-<h4>Contact</h4>h4
+<h4>Contact</h4>
 <strong>For any questions or suggestions, please contact:</strong>
 
-<p>Name: Mr. Amin Khan
-Email: khan.ameen17@gmail.com
-GitHub: Amin17386
+<p><strong>Name:</strong> Mr. Amin Khan</br>
+<strong>Email:</strong> khan.ameen17@gmail.com</br>
+<strong>GitHub:</strong> Amin17386</br></p>
 <p></p>Thank you for using the Recipe Recommendation System! We hope it helps you discover delicious and nutritious recipes tailored to your preferences.</p>
